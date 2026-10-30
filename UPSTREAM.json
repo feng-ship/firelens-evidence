@@ -1,0 +1,6 @@
+{
+  "repository": "https://github.com/LeonardoSya/firelens-nextjs",
+  "commit": "796a890d432318c156a6851e7456007e881bac5e",
+  "restoration": "All upstream source and public assets restored from pinned commit; original credentials omitted; local pnpm-lock.yaml regenerated and installed with pnpm 9.",
+  "credential_policy": "Upstream .env was intentionally not copied. Hardcoded service credentials removed in working copy."
+}
