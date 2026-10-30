@@ -5,6 +5,7 @@
 本轮新增代码按仓库 MIT 许可提供；第三方依赖、字体、数据与在线服务仍适用各自条款，不能将整个技术栈表述为 MIT。
 
 - NASA LANCE FIRMS / NOAA-21 VIIRS C2 数据：保留来源、采集时间、快照校验值及官方引用与免责声明链接，详见 docs/aic/数据引用说明.md。数据不因本仓库 LICENSE 而变为 MIT；不暗示 NASA/NOAA 背书。
+- Open-Meteo Historical Weather API / ECMWF IFS 历史模型气象：数据适用CC BY 4.0，保留来源与许可链接。默认云南快照为真实接口数据，统计、窗口筛选与摘要由本项目计算；详见 docs/同期气象接入.md。API服务适用提供方使用条款；未复制其AGPL服务端代码。
 - Tiny5 字体：The Tiny5 Project Authors，SIL Open Font License 1.1。许可全文见 public/fonts/OFL-Tiny5.txt，字体不改用 MIT。
 - Mapbox GL、地图服务、ChatGPT 账号授权与模型服务适用各自许可或服务条款；不分发用户账号、Token 或付费服务访问权。
 - 原 firelens-deno 后端与原带凭据 Dify 导出不在此源码包内；本地原节点对照结果只以不含凭据的记录提供，不构成原导出的再分发授权。
